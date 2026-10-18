@@ -41,14 +41,14 @@ Pizza ordering application that allows users to easily select and order pizzas f
 
 ## 🏁Getting Started
 
-To set up the fast-react-pizza project locally, follow the instructions below.
+To set up the fast-pizz-app project locally, follow the instructions below.
 
 ## ⬇️Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Ha-Mundo/Fast-Pizza-App.git
+   git clone https://github.com/Ha-Mundo/Fast-Pizz-App.git
    ```
 
 2. Install the dependencies:
@@ -65,7 +65,7 @@ To set up the fast-react-pizza project locally, follow the instructions below.
    npm run dev
    ```
 
-2. Click on the localhost link that you get on the terminal or open your browser and navigate to [http://localhost:5173/](http://localhost:5173/) to access fast-react-pizza application.
+2. Click on the localhost link that you get on the terminal or open your browser and navigate to [http://localhost:5173/](http://localhost:5173/) to access fast-pizz-app application.
 
 ## 🚀Live Demo
 
