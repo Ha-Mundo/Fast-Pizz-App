@@ -9,6 +9,7 @@ import {
 } from '../../utils/helpers';
 import { getOrder } from '../../services/apiRestaurant';
 import UpdateOrder from './UpdateOrder';
+import LinkButton from '../../ui/LinkButton';
 
 function Order() {
   const order = useLoaderData();
@@ -93,6 +94,11 @@ function Order() {
       </div>
 
       {!priority && <UpdateOrder order={order} />}
+      
+      <div>
+        <LinkButton  to="/" >&larr; Back to home</LinkButton>
+      </div>
+      
     </div>
   );
 }
